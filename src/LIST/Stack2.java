@@ -11,6 +11,7 @@ public class Stack2 {
         MyStack.add("Rakesh");
         MyStack.add("Rohit");
         MyStack.add("Rahul");
+        MyStack.add("Riya");
         MyStack.add("Riyan");
 
         System.out.println("Name List : "+MyStack);
