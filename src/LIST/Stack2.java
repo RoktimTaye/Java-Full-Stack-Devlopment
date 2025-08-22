@@ -24,9 +24,6 @@ public class Stack2 {
 
         System.out.println("List : "+MyStack);
 
-        MyStack.removeFirst();
-        System.out.println("List : "+MyStack);
-
         MyStack.removeLast();
         System.out.println("List : "+MyStack);
 
